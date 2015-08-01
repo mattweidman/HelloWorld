@@ -1,2 +1,4 @@
 # HelloWorld
-Testing out my first repository
+Testing out my first repository.
+
+I like :pizza:.
